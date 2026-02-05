@@ -1,0 +1,58 @@
+# 📧 Email Triage Assistant – AI Agent
+
+An **AI-powered email management assistant** that summarizes long email threads, understands context, automatically categorizes emails, and generates smart replies to improve productivity and reduce inbox overload.
+
+---
+
+## 🚀 Project Overview
+
+Managing emails becomes inefficient when conversations grow long and complex.  
+The **Email Triage Assistant** uses AI agents to analyze email content, compress conversations, classify messages, and suggest appropriate responses.
+
+This project focuses on **context-aware automation** to help users read less and respond faster.
+
+---
+
+## ✨ Features
+
+### 🔹 Email Thread Summarization
+- Compresses long email conversations into concise summaries
+- Extracts:
+  - Key points
+  - Decisions made
+  - Action items
+  - Deadlines
+
+---
+
+### 🔹 Context Awareness
+- Understands conversation flow across multiple emails
+- Tracks:
+  - Questions and answers
+  - Pending responses
+  - Sender intent
+
+---
+
+### 🔹 Automatic Email Categorization
+Classifies emails into predefined categories such as:
+- 📌 Work / Academic
+- 🚨 Urgent
+- 📅 Meetings
+- 💰 Finance
+- 📢 Promotions / Spam
+
+---
+
+### 🔹 Smart Reply Generation
+- Generates suggested responses based on email intent
+- Supports:
+  - Acknowledgements
+  - Confirmations
+  - Follow-ups
+  - Polite rejections
+
+---
+
+## 🏗️ System Architecture
+
